@@ -1,12 +1,12 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-I want to figure out the trends in global and country deaths over the last 20 years that are decreasing and increasing.   I plan to tell a data story which shows what ways civilations are improving in regards to human longevity and which ways it is getting worse.
+I wanted to figure out the trends in global and country deaths over the last 20 years that are decreasing and increasing.   I plan to tell a data story which shows what ways civilations are improving in regards to human longevity and which ways it is getting worse.
 
 ## Process
 
-1. I went through the data set and experiment with different figures to understand the data. Then I chose the story I want to tell with the data.
-2. 2. I calculated the percent change in total death numbers per cause between 1990 and 2019.
+1. I went through the data set and experimented with different figures to understand the data. Then I chose the story I want to tell with the data.
+2. I calculated the percent change in total death numbers per cause between 1990 and 2019.
 3. I created a Tableau dashboard that showed my data and conveyed a data story.
 
 ## Results
@@ -23,15 +23,15 @@ Entity (country where death took place) | String & Geographic Country Data
 Code | String
 Year | Number (whole)
 
-To understand the data I made lots of figures in Tableau.  I started off creating a data table that allowed me to see the different data that was in the data set.
+To understand the data I made lots of figures in Tableau.  I started off creating a table that allowed me to see the different data in the data set.
 
 ![data_table](images/data_table.png)
 
-I created a world map to see the total deaths distributed around the world.  The color sale is red for most deaths, yellow for least.  
+I created a world map to see how the total deaths are distributed by country.  The color scale is red for most deaths, yellow for least.  
 
 ![world_map](images/world_map.png)
 
-The most visually useful graph I created for understanding the significance of the death numbers by death cause was the area chart.  I was also able to see how trends changed by year.  I analyzed all the death causes together in one chart as well as individually.   The snips below show total global deaths, but I also filtered by individual country to see that data.
+The most visually useful graph I created was the area chart.   The chart showed the significance of the death numbers by death cause with the area under the curve, while the curve showed how the trend changed by year. I analyzed all the death causes together in one chart as well as individually.   The snips below show total global deaths, but I also filtered by individual country to see that data.
 
 ![area_chart1](images/area_chart1.png)
 ![area_chart2](images/area_chart2.png)
@@ -65,7 +65,7 @@ My final dashboard featured the percent change in total annual deaths between 19
 ![dashboard](images/dashboard.png)
 
 ## Challenges 
-The main challenge of the project was getting proficient with Tableau's interface and learning the extent of it's functionality.   After a full weekend of Tableau use, tinkering with all the different graphs so I could better understand my dataset I improved greatly.
+The main challenge of the project was getting proficient with Tableau's interface and learning the extent of it's functionality.   After a full weekend of tinkering in Tableau use I understood my dataset and the strength of Tableau as a data visualization tool.
 
 ## Future Goals
 The next step for the project would be to extend the analysis to compare the death rates of different countries in a meaningful way.
