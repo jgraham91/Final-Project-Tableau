@@ -4,9 +4,10 @@
 I want to figure out the trends in global and country deaths over the last 20 years that are decreasing and increasing.   I plan to tell a data story which shows what ways civilations are improving in regards to human longevity and which ways it is getting worse.
 
 ## Process
-### 1. I went through the data set and experiment with different figures to understand the data. Then I chose the story I want to tell with the data.
-### 2. I calculated the percent change in total death numbers per cause between 1990 and 2019.
-### 3. I created a Tableau dashboard that showed my data and conveyed a data story.
+
+1. I went through the data set and experiment with different figures to understand the data. Then I chose the story I want to tell with the data.
+2. 2. I calculated the percent change in total death numbers per cause between 1990 and 2019.
+3. I created a Tableau dashboard that showed my data and conveyed a data story.
 
 ## Results
 
