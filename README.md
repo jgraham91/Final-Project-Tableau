@@ -1,5 +1,7 @@
 # Final-Project-Tableau
 
+This project showcases my tableau and data visualization skills
+
 ## Project/Goals
 I wanted to figure out the trends in global and country deaths over the last 20 years that are decreasing and increasing.   I plan to tell a data story which shows what ways civilations are improving in regards to human longevity and which ways it is getting worse.
 
